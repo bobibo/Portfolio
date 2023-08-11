@@ -2,7 +2,11 @@
 
 Upload on web server with a domain name : alexwavedigital.fr
 
-nginx 80 ( http ) + pm2 sur digital ocean
+En local : npm run dev
+
+npm run build -> /var/www/Portfolio/
+
+nginx 80 ( http ) + pm2 sur digital ocean 
 
 server {
   listen 80;
