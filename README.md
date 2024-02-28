@@ -2,7 +2,9 @@
 
 Upload on web server with a domain name : alexwavedigital.fr
 
-En local : npm run dev
+En local : 
+npm install
+npm run dev
 
 npm run build -> /var/www/Portfolio/
 
